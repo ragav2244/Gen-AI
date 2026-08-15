@@ -516,9 +516,6 @@ This experiment demonstrates how a neural network can learn a non-linear relatio
 
 ---
 
-## GitHub Repository
-
-**Repository Link:** [Insert GitHub Repository Link]
 
 ---
 
