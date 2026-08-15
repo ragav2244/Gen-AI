@@ -509,9 +509,13 @@ This experiment demonstrates how a neural network can learn a non-linear relatio
 ## Author
 
 **Name:** Ragav Sharma
+
 **PRN:** 202401110012
-**Class:** B.Tech AI & ML
-**Batch:** AIML
+
+**Class:**  AI & ML
+
+**Batch:** A2
+
 **Subject:** Generative AI Lab
 
 ---
